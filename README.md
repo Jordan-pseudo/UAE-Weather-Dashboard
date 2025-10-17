@@ -44,3 +44,27 @@ The dashboard is designed to help users, researchers, and policymakers better un
 
 ## Project Structure
 
+UAE_Weather_Dashboard/
+├── data/
+│ └── uae_weather.csv
+├── app.py
+├── requirements.txt
+├── README.md
+└── assets/
+└── screenshots/
+
+
+---
+
+## How to Run Locally
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/<your-username>/UAE-Weather-Dashboard.git
+cd UAE-Weather-Dashboard
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Launch the Streamlit dashboard
+streamlit run app.py
