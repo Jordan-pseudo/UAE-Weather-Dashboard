@@ -60,7 +60,7 @@ UAE_Weather_Dashboard/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/UAE-Weather-Dashboard.git
+git clone https://github.com/Jordan-pseudo/UAE-Weather-Dashboard.git
 cd UAE-Weather-Dashboard
 
 # 2. Install dependencies
